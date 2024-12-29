@@ -4,13 +4,17 @@ clone the tool
 
 git clone https://github.com/Paga-nini/Trx-recue-bot
 
+move to the tools directory
+
+cd Trx-recue-bot
+
 Allow permissions 
 
-chmod +x Trx-rescue-bot.py
+chmod +x TRX-Rescue-Bot.py
 
 Run
 
-python Trx-rescue-bot.py
+python TRX-Rescue-Bot.py
 
 Enter the target seed (the wallet you're taking the assets from)
 
