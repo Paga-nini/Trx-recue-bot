@@ -20,7 +20,10 @@ Enter the target seed (the wallet you're taking the assets from)
 
 Enter your receiving address
 
-Rescue address is provided
-pay the gas fee to Rescue address
-Rescue address has its own program to merge the blocks 
-the assets are sent to your receiving address 
+Rescue address is provided.
+
+Pay the gas fee to Rescue address.
+
+Rescue address has its own program to merge the blocks. 
+
+The assets are sent to your receiving address 
